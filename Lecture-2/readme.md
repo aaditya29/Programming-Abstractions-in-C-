@@ -226,3 +226,5 @@ Reference semantics is when you work with references or pointers to data rather 
 - **Reference Semantics**: Use when you need to modify the original data, avoid copying large objects, or when working with functions that should affect the caller's variables.
 
 Understanding when to use value versus reference semantics is key to writing efficient and bug-free C++ programs.
+
+## Strings in C++
