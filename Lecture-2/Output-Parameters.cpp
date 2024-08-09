@@ -11,5 +11,6 @@ int main()
 {
     int young;
     int old;
-    cout << "A 50 year old man can date someone from" << young << " to" << old << " years old." << endl;
+    DatingRange(48, young, old);
+    cout << "A 24 year old man can date someone from " << young << "to" << old << " years old." << endl;
 }
